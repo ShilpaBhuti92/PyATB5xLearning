@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e31f80ad-7c31-4602-b587-cfd8f46b1c93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab002_Datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab003_EscapeChars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab004_RandomIntergers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab005_09Nov_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab006_09Nov_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab002_Datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab002_Datatypes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +29,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShilpaBhuti92/PyATB5xLearning.git",
-    "accountId": "fb64147a-d117-406f-bf78-af0fcc33513d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShilpaBhuti92/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;fb64147a-d117-406f-bf78-af0fcc33513d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2oU5yzihTVEzuLUIst2htuiWchy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,8 +48,12 @@
   "keyToString": {
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Datatypes.executor": "Run",
+    "Python.Lab003_EscapeChars.executor": "Run",
+    "Python.Lab005_09Nov_Task1.executor": "Run",
+    "Python.Lab006_09Nov_Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sbhuti/PycharmProjects/PyATB5xLearning"
   }
 }]]></component>
   <component name="SharedIndexes">

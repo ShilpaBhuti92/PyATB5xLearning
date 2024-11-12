@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e31f80ad-7c31-4602-b587-cfd8f46b1c93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab003_EscapeChars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab004_RandomIntergers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab005_09Nov_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab006_09Nov_Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e31f80ad-7c31-4602-b587-cfd8f46b1c93" name="Changes" comment="Added the tasks for 09Nov">
+      <change afterPath="$PROJECT_DIR$/New/ex_12112024_Operators/Lab001_Task1_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_12112024_Operators/Lab002_Task2_PredictOutput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_12112024_Operators/Lab003_Task3_FindMaxNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab002_Datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/New/ex_05112024_Python_Basics/Lab002_Datatypes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +25,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShilpaBhuti92&quot;
+  }
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ShilpaBhuti92/PyATB5xLearning.git&quot;,
-    &quot;accountId&quot;: &quot;fb64147a-d117-406f-bf78-af0fcc33513d&quot;
+    &quot;accountId&quot;: &quot;0b714d6e-67f7-4d47-961a-08233dbf3315&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,8 +49,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab001_Task1_if_else.executor": "Run",
     "Python.Lab002_Datatypes.executor": "Run",
+    "Python.Lab002_Task2_PredictOutput.executor": "Run",
     "Python.Lab003_EscapeChars.executor": "Run",
+    "Python.Lab003_Task3_FindMaxNumber.executor": "Run",
     "Python.Lab005_09Nov_Task1.executor": "Run",
     "Python.Lab006_09Nov_Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,6 +61,11 @@
     "last_opened_file_path": "C:/Users/sbhuti/PycharmProjects/PyATB5xLearning"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sbhuti\PycharmProjects\PyATB5xLearning\New" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730911572206</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the tasks for 09Nov">
+      <option name="closed" value="true" />
+      <created>1731258516133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731258516133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the tasks for 09Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the tasks for 09Nov" />
   </component>
 </project>

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e31f80ad-7c31-4602-b587-cfd8f46b1c93" name="Changes" comment="Added the tasks for 09Nov">
-      <change afterPath="$PROJECT_DIR$/New/ex_12112024_Operators/Lab001_Task1_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/ex_12112024_Operators/Lab002_Task2_PredictOutput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New/ex_12112024_Operators/Lab003_Task3_FindMaxNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_14112024_ConditionsAndLoops/Lab001_14nov_Task1_LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_14112024_ConditionsAndLoops/Lab002_14NovTask2_Traingle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/ex_16112024_Loops/Lab001_16nov_Task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ex_12112024_Operators" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -48,8 +53,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab001_14nov_Task1_LeapYear.executor": "Run",
+    "Python.Lab001_16nov_Task1.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab001_Task1_if_else.executor": "Run",
+    "Python.Lab002_14NovTask2_Traingle.executor": "Run",
     "Python.Lab002_Datatypes.executor": "Run",
     "Python.Lab002_Task2_PredictOutput.executor": "Run",
     "Python.Lab003_EscapeChars.executor": "Run",
@@ -92,6 +100,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the tasks for 09Nov" />
